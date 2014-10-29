@@ -1,0 +1,2 @@
+Subject 25 saw a pigeon.	Elapsed time was: 2.16 seconds
+Subject 25 saw a pigeon.	Elapsed time was: 2.66 seconds
